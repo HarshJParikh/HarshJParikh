@@ -7,8 +7,7 @@
 I'm currently pursuing a Master's in Applied Data Science at the University of Southern California, diving deep into Data Management, Machine Learning, and related fields. Passionate about data-driven solutions, I'm always exploring new ways to leverage data in technology and business.
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/HarshJParikh)
-
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/HarshJParikh)    
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hparikh2000)
 
 
